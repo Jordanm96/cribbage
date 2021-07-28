@@ -1,11 +1,17 @@
-import logo from './logo.svg';
-import Deck from './components/Deck';
-import './App.css';
+import "./App.css";
+import Landing from "./screens/Landing/Landing";
+import Game from "./screens/Game/Game";
+import { Route } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <Deck/>
+      <Route path="/play">
+        <Game />
+      </Route>
+      <Route exact path="/" >
+        <Landing />
+      </Route>
     </div>
   );
 }
