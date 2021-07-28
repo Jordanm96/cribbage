@@ -23,8 +23,8 @@ Insert Screenshots here
 
 | Day      | Deliverable                                | Status   |
 | -------- | ------------------------------------------ | -------- |
-| Tues July 27th | Pick a game / Wireframe with AdobeXD | Incomplete |
-| Wed July 28th | Component Hierarchy / Pseudocode / Begin JS | Incomplete |
+| Tues July 27th | Pick a game / Wireframe with AdobeXD / Component Heierarchy | Incomplete |
+| Wed July 28th | Pseudocode / Begin JS | Incomplete |
 | Thurs July 29th | JS game logic cont. (Both work on Thursday) | Incomplete |
 | Fri July 30th | JS game logic cont. | Incomplete |
 | Sat July 31st | Finsh JS logic / Begin CSS | Incomplete |
