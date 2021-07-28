@@ -54,5 +54,6 @@ From the Merriam Webster Dictionary, "Cribbage is a card game, usually for two p
 ## Developers
 
 | Name | Email | LinkedIn | GitHub |
+| -------- | ------------------------------------------ | -------- |
 | Jordan Montero | jordmontero96@gmail.com | https://www.linkedin.com/in/jordanm96/ | https://github.com/Jordanm96 |
 | Paul Moschetti | paulmoschetti93@gmail.com | https://www.linkedin.com/in/paul-william-moschetti | https://github.com/StrangerLs |
