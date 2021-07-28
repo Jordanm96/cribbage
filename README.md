@@ -6,7 +6,7 @@
 From the Merriam Webster Dictionary, "Cribbage is a card game, usually for two players, in which each player tries to form various counting combinations of cards. Each player receives six cards, and the score is kept by moving pegs on a narrow rectangular board." A winner is decided when a player's peg makes it all the way through the Cribbage board, totaling 121 points.
 
 
-## Visual
+## Wireframe
 
 (insert adobe xd link here)
 
@@ -17,7 +17,7 @@ From the Merriam Webster Dictionary, "Cribbage is a card game, usually for two p
 
 ## Screenshots
 
-Insert Screenshots here
+(Insert Screenshots here)
 
 ## Project Schedule
 
