@@ -1,0 +1,28 @@
+.landing h1{
+  text-align: center;
+}
+.landing .play {
+  text-align: center;
+}
+.landing .introContainer {
+  display: flex;
+}
+.landing .introContainer .text {
+  width: 47%;
+  margin-left: 3%;
+}
+.landing .introContainer .photo {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.landing .introContainer .photo .crib {
+  width: 90%;
+  max-width: 500px;
+  border-radius: 10%;
+}
+.landing .instrContainer .instructions {
+  width: 80%;
+  margin-left: 3%;
+}
